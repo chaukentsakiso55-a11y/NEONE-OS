@@ -1,0 +1,11 @@
+<resources>
+    <style name="Theme.NeonOS" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:colorAccent">#67E8FF</item>
+        <item name="android:navigationBarColor">#03050A</item>
+        <item name="android:statusBarColor">#03050A</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+</resources>
